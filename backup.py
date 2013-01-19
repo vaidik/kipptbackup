@@ -1,4 +1,8 @@
-#!/usr/bin/env python
+'''
+# Kippt Backup
+
+Contains the main backup class.
+'''
 
 BASE_URL = 'https://kippt.com'
 
