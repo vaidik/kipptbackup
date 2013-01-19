@@ -73,7 +73,3 @@ class KipptBackup(object):
                 last = True
 
             yield response
-
-
-if __name__ == '__main__':
-    run()
